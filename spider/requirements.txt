@@ -1,0 +1,16 @@
+--index-url http://pypi.tuna.tsinghua.edu.cn/simple/ #http://mirrors.aliyun.com/pypi/simple/
+
+selenium==4.8.2
+pytesseract==0.3.10
+lxml==4.9.2
+pyquery==2.0.0
+beautifulsoup4==4.11.2
+requests==2.28.2
+fake-useragent==1.1.1
+PyMySQL==1.0.2
+openpyxl==3.0.10
+python-dotenv==1.0.0
+SQLAlchemy==2.0.19
+plyer==2.1.0
+pywifi==1.1.12
+comtypes==1.2.0
