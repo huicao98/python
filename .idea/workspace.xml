@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95d5cf16-b23e-49b8-9d30-e351c98c5162" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-spider" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-spider" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/dp_basedata.py" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/dp_basedata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/env" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/scrap_dp_basic_from_pc.py" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-spider/dp_spider_v2/scrap_dp_basic_from_pc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-spider/insert_crm.py" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-spider/insert_crm.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +51,7 @@
     <option name="width" value="1210" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -58,6 +63,11 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="dianping-spider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,9 +115,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15436241" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15637584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -118,7 +127,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32905984" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
